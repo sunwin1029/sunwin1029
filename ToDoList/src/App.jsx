@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './components/LogIn';
 import Register from './components/Register';
-import TodoList from './components/ToDoList';
+import TodoList from './components/TodoList';
 import GlobalStyle from './styles/GlobalStyle';
 
 function App() {
