@@ -146,7 +146,7 @@ function Login() {
             required
           />
           <LoginButton type="submit">
-            로그로그
+            로그인
           </LoginButton>
         </form>
         <SignupButton onClick={handleSignup}>
